@@ -34,10 +34,10 @@ Você pode jogar agora mesmo:
 ## 📁 Estrutura do projeto
 
 memory/
-─ assets/
-─ index.html
-─ styles.css
-─ scripts.js
+- assets/
+- index.html
+- styles.css
+- scripts.js
 
 ---
 
