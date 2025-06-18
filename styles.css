@@ -15,8 +15,8 @@ body {
 }
 
 .game-container {
-    min-width: 544px;
-    max-width: 554px;
+    min-width: 420px;
+    max-width: 420px;
 }
 
 .game-header {
